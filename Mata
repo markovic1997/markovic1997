@@ -1,4 +1,4 @@
-#EXTM3U
+EXTM3U
 #EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://176.67.211.6:15000/udp/239.1.1.1:22001
 #EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
@@ -345,7 +345,7 @@ http://176.67.211.6:15000/udp/239.1.1.179:22179
 http://176.67.211.6:15000/udp/239.1.1.180:22180
 #EXTINF:0 tvg-id="PinkWorld.rs" group-title="Channels",Pink World
 http://176.67.211.6:15000/udp/239.1.1.181:22181
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Show
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink http://www.htru.ru/ Show
 http://176.67.211.6:15000/udp/239.1.1.182:22182
 #EXTINF:0 tvg-id="PinkClassic.rs" group-title="Channels",Pink Classic
 http://176.67.211.6:15000/udp/239.1.1.184:22184
@@ -355,9 +355,3 @@ http://176.67.211.6:15000/udp/239.1.1.185:22185
 http://176.67.211.6:15000/udp/239.1.1.186:22186
 #EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",Pink Reality
 http://176.67.211.6:15000/udp/239.1.1.187:22187
-#EXTINF:0 tvg-id="PinkSoap.rs" group-title="Channels",Pink Soap
-http://176.67.211.6:15000/udp/239.1.1.188:22188
-#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Channels",Pink Zabava
-http://176.67.211.6:15000/udp/239.1.1.189:22189
-#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
-http://176.67.211.6:15000/udp/239.1.1.190:22190
