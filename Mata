@@ -1,0 +1,2461 @@
+#EXTM3U
+#EXTINF:-1,BHT 1 (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/3.ts
+#EXTINF:-1,BHT 1 (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/4.ts
+#EXTINF:-1,FEDERALNA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/5.ts
+#EXTINF:-1,TV SARAJEVO (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/7.ts
+#EXTINF:-1,TV SARAJEVO (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/8.ts
+#EXTINF:-1,FACE TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/9.ts
+#EXTINF:-1,HAYAT TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/11.ts
+#EXTINF:-1,HAYAT TV (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/12.ts
+#EXTINF:-1,HAYAT PLUS (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/13.ts
+#EXTINF:-1,OBN (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17.ts
+#EXTINF:-1,AL  JAZEERA BALK.(BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18.ts
+#EXTINF:-1,AL  JAZEERA BALK. L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/19.ts
+#EXTINF:-1,N1 (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/20.ts
+#EXTINF:-1,N1 (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21.ts
+#EXTINF:-1,O KANAL (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/22.ts
+#EXTINF:-1,O KANAL (BIH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23.ts
+#EXTINF:-1,PINK (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/26.ts
+#EXTINF:-1,TK TUZLA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/27.ts
+#EXTINF:-1,TV VOGOSCA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/28.ts
+#EXTINF:-1,ALFA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/29.ts
+#EXTINF:-1,HEMA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/30.ts
+#EXTINF:-1,RTV SLON (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/31.ts
+#EXTINF:-1,RTV ZENICA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/32.ts
+#EXTINF:-1,RTV VISOKO (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/33.ts
+#EXTINF:-1,HIT BRCKO TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/34.ts
+#EXTINF:-1,TV KAKANJ (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/35.ts
+#EXTINF:-1,RTV USK (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36.ts
+#EXTINF:-1,RTV CAZIN (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37.ts
+#EXTINF:-1,RTV SANA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/38.ts
+#EXTINF:-1,B1 TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/40.ts
+#EXTINF:-1,RTV 7
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/41.ts
+#EXTINF:-1,SUPER TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/42.ts
+#EXTINF:-1,SEHARA ONLINE (Test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/43.ts
+#EXTINF:-1,PRVA HERCEGOVACKA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44.ts
+#EXTINF:-1,TATABRADA TV (BiH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/45.ts
+#EXTINF:-1,BOSANSKO POSAVSKA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/46.ts
+#EXTINF:-1,POSAVINA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47.ts
+#EXTINF:-1,ELTA 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48.ts
+#EXTINF:-1,GLAS DRINE (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49.ts
+#EXTINF:-1,OTV VALENTINO (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/50.ts
+#EXTINF:-1,RTV PODRINJE (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/51.ts
+#EXTINF:-1,BMC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/52.ts
+#EXTINF:-1,RTV BUGOJNO (test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/54.ts
+#EXTINF:-1,SMART TV (test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/56.ts
+#EXTINF:-1,RTV ZIVINICE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/57.ts
+#EXTINF:-1,RTV LUKAVAC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/58.ts
+#EXTINF:-1,RTV JABLANICA (test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/59.ts
+#EXTINF:-1,NEON TV 
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/61.ts
+#EXTINF:-1,CITY TV MOSTAR (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/62.ts
+#EXTINF:-1,ATV BANJA LUKA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/63.ts
+#EXTINF:-1,K3 PRNJAVOR (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/64.ts
+#EXTINF:-1,RTRS (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/65.ts
+#EXTINF:-1,RTRS PLUS (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/66.ts
+#EXTINF:-1,RTV HB (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/67.ts
+#EXTINF:-1,::::: SRBIJA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115.ts
+#EXTINF:-1,RTS 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/116.ts
+#EXTINF:-1,RTS 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/118.ts
+#EXTINF:-1,RTS 2 (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/119.ts
+#EXTINF:-1,RTS 3 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/120.ts
+#EXTINF:-1,RTS ZIVOT (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/121.ts
+#EXTINF:-1,RTS DRAMA (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/122.ts
+#EXTINF:-1,RTS KOLO (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/123.ts
+#EXTINF:-1,RTS TREZOR (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/124.ts
+#EXTINF:-1,RTS SVET (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/125.ts
+#EXTINF:-1,NOVA S (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/126.ts
+#EXTINF:-1,NOVA S (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/127.ts
+#EXTINF:-1,PRVA (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/128.ts
+#EXTINF:-1,PRVA (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/129.ts
+#EXTINF:-1,PRVA PLUS (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/130.ts
+#EXTINF:-1,PRVA MAX (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/132.ts
+#EXTINF:-1,PRVA WORLD (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/133.ts
+#EXTINF:-1,PRVA KICK (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/134.ts
+#EXTINF:-1,N1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/135.ts
+#EXTINF:-1,N1 (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/136.ts
+#EXTINF:-1,SUPERSTAR TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/137.ts
+#EXTINF:-1,B92 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/138.ts
+#EXTINF:-1,K1 TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/139.ts
+#EXTINF:-1,STUDIO B (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/140.ts
+#EXTINF:-1,HAPPY TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/141.ts
+#EXTINF:-1,HAPPY PAROVI UZIVO 24h (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/142.ts
+#EXTINF:-1,ZADRUGA LIVE 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/143.ts
+#EXTINF:-1,ZADRUGA LIVE 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144.ts
+#EXTINF:-1,ZADRUGA LIVE 3 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/145.ts
+#EXTINF:-1,ZADRUGA LIVE 4 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/146.ts
+#EXTINF:-1,TV K CN 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/147.ts
+#EXTINF:-1,TV K CN 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/148.ts
+#EXTINF:-1,TV KCN 3 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/149.ts
+#EXTINF:-1,RTV VOJVODINA 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/150.ts
+#EXTINF:-1,RTV VOJVODINA 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151.ts
+#EXTINF:-1,SANDZAK TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/153.ts
+#EXTINF:-1,RTV NOVI PAZAR (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/154.ts
+#EXTINF:-1,AGRO TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/155.ts
+#EXTINF:-1,TV LESKOVAC (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/156.ts
+#EXTINF:-1,TV BOR (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/157.ts
+#EXTINF:-1,TV ISTOK (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/158.ts
+#EXTINF:-1,PALMA PLUS (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/159.ts
+#EXTINF:-1,JEFIMIJA TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/160.ts
+#EXTINF:-1,HRAM TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/161.ts
+#EXTINF:-1,TV DUGA PLUS (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/162.ts
+#EXTINF:-1,RED TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/163.ts
+#EXTINF:-1,ZVEZDA TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/164.ts
+#EXTINF:-1,BELLE AMIE HD (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/165.ts
+#EXTINF:-1,KURIR TV HD (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/167.ts
+#EXTINF:-1,RTK KRUSEVAC (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/169.ts
+#EXTINF:-1,RTV MIR
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/171.ts
+#EXTINF:-1,VA PLUS TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/172.ts
+#EXTINF:-1,RTCG 1 (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/177.ts
+#EXTINF:-1,TV 7 Podgorica (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/187.ts
+#EXTINF:-1,SITEL (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/189.ts
+#EXTINF:-1,SITEL (MK) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/190.ts
+#EXTINF:-1,KANAL 5 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/191.ts
+#EXTINF:-1,TELMA (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/193.ts
+#EXTINF:-1,ALFA TV MK
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/194.ts
+#EXTINF:-1,24 VESTI (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/195.ts
+#EXTINF:-1,MRT 1 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/196.ts
+#EXTINF:-1,MRT 2 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/197.ts
+#EXTINF:-1,MRT 3 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/198.ts
+#EXTINF:-1,MRT 4 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/200.ts
+#EXTINF:-1,TV ZDRAVKIN (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/201.ts
+#EXTINF:-1,TERA BITOLA (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/202.ts
+#EXTINF:-1,TV PLUS (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/204.ts
+#EXTINF:-1,TV SONCE (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/205.ts
+#EXTINF:-1,NASA TV (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/206.ts
+#EXTINF:-1,KANAL 8 KOCANI (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/207.ts
+#EXTINF:-1,HUGO TV 1 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/210.ts
+#EXTINF:-1,HUGO TV 2 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/211.ts
+#EXTINF:-1,HUGO TV 3 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/212.ts
+#EXTINF:-1,TV 1000 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/213.ts
+#EXTINF:-1,FOX MOVIES (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/214.ts
+#EXTINF:-1,FOX CRIME (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/215.ts
+#EXTINF:-1,FOX LIFE (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/216.ts
+#EXTINF:-1,CINESTAR PREMIERE 1 HD (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/217.ts
+#EXTINF:-1,CINESTAR PREMIERE 2 HD (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/218.ts
+#EXTINF:-1,HBO (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/220.ts
+#EXTINF:-1,HBO 2 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/221.ts
+#EXTINF:-1,HBO 3 (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/222.ts
+#EXTINF:-1,VIASAT EXPLORE (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/223.ts
+#EXTINF:-1,VIASAT HISTORY (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/224.ts
+#EXTINF:-1,ANIMAL PLANET (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/225.ts
+#EXTINF:-1,ROMA TV (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/226.ts
+#EXTINF:-1,SKY FOLK (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/227.ts
+#EXTINF:-1,FOLK TV (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/231.ts
+#EXTINF:-1,ALSAT M (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/234.ts
+#EXTINF:-1,RTV 21 HD (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/235.ts
+#EXTINF:-1,USKANA (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/237.ts
+#EXTINF:-1,TOP ESTRADA TV HD (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/238.ts
+#EXTINF:-1,POP TV (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/240.ts
+#EXTINF:-1,POP KINO (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/241.ts
+#EXTINF:-1,POP OTO (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/242.ts
+#EXTINF:-1,POP BRIO (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/243.ts
+#EXTINF:-1,SLO 1 HD (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/244.ts
+#EXTINF:-1,SLO 2 HD (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/245.ts
+#EXTINF:-1,SLO 3 HD (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/246.ts
+#EXTINF:-1,KANAL A (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/247.ts
+#EXTINF:-1,HBO (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/248.ts
+#EXTINF:-1,PLANET TV (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/249.ts
+#EXTINF:-1,EXODUS (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/250.ts
+#EXTINF:-1,TV KOPER (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/251.ts
+#EXTINF:-1,TV MARIBOR (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/252.ts
+#EXTINF:-1,NOVA 24 TV (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/253.ts
+#EXTINF:-1,TV VESELJAK (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/254.ts
+#EXTINF:-1,ANDRIJA I ANDJELKA 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/256.ts
+#EXTINF:-1,LUD ZBUNJEN NORMALAN 1 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/257.ts
+#EXTINF:-1,LUD ZBUNJEN NORMALAN 2 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/258.ts
+#EXTINF:-1,HBO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/264.ts
+#EXTINF:-1,HBO L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/265.ts
+#EXTINF:-1,HBO 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/266.ts
+#EXTINF:-1,HBO 2 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/267.ts
+#EXTINF:-1,HBO 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/268.ts
+#EXTINF:-1,HBO 3 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/269.ts
+#EXTINF:-1,CINEMAX 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/270.ts
+#EXTINF:-1,CINEMAX 1 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/271.ts
+#EXTINF:-1,CINEMAX 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/272.ts
+#EXTINF:-1,CINEMAX 2 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/273.ts
+#EXTINF:-1,CINESTAR TV1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/274.ts
+#EXTINF:-1,CINESTAR TV1 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/275.ts
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/276.ts
+#EXTINF:-1,CINESTAR PREMIERE 1 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/277.ts
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/278.ts
+#EXTINF:-1,CINESTAR PREMIERE 2 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/279.ts
+#EXTINF:-1,CINESTAR ACTION
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/280.ts
+#EXTINF:-1,CINESTAR ACTION L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/281.ts
+#EXTINF:-1,CINESTAR FANTASY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/282.ts
+#EXTINF:-1,FILM KLUB
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/283.ts
+#EXTINF:-1,FILM KLUB L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/284.ts
+#EXTINF:-1,M1 FILM
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/286.ts
+#EXTINF:-1,M1 GOLD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/287.ts
+#EXTINF:-1,AXN
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/289.ts
+#EXTINF:-1,AXN L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/290.ts
+#EXTINF:-1,AXN SPIN
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/291.ts
+#EXTINF:-1,AXN SPIN L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/292.ts
+#EXTINF:-1,KLASIK TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/293.ts
+#EXTINF:-1,KLASIK TV L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/294.ts
+#EXTINF:-1,TV 1000
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/295.ts
+#EXTINF:-1,TV 1000 L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/296.ts
+#EXTINF:-1,KINO TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/297.ts
+#EXTINF:-1,KINO TV L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/298.ts
+#EXTINF:-1,EPIC DRAMA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/299.ts
+#EXTINF:-1,EPIC DRAMA L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/300.ts
+#EXTINF:-1,DIVA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/301.ts
+#EXTINF:-1,DIVA L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/302.ts
+#EXTINF:-1,AMC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/303.ts
+#EXTINF:-1,AMC L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/304.ts
+#EXTINF:-1,SCI FI
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/305.ts
+#EXTINF:-1,SCI FI L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/306.ts
+#EXTINF:-1,PICKBOX TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/307.ts
+#EXTINF:-1,PICKBOX TV L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/308.ts
+#EXTINF:-1,CINEMANIA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/309.ts
+#EXTINF:-1,FOX
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/310.ts
+#EXTINF:-1,FOX L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/311.ts
+#EXTINF:-1,FOX MOVIES
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/312.ts
+#EXTINF:-1,FOX MOVIES L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/313.ts
+#EXTINF:-1,FOX LIFE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/314.ts
+#EXTINF:-1,FOX LIFE L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/315.ts
+#EXTINF:-1,FOX CRIME
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/316.ts
+#EXTINF:-1,FOX CRIME L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/317.ts
+#EXTINF:-1,MAXCRO SELECT 1 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/318.ts
+#EXTINF:-1,MAXCRO SELECT 2 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/319.ts
+#EXTINF:-1,MAXCRO SELECT 3 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/320.ts
+#EXTINF:-1,MAXCRO SELECT 4 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/321.ts
+#EXTINF:-1,MAXCRO SELECT 5 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/322.ts
+#EXTINF:-1,MAXCRO SELECT 6 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/323.ts
+#EXTINF:-1,MAXCRO SELECT 7 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/324.ts
+#EXTINF:-1,MAXCRO SELECT 8 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/325.ts
+#EXTINF:-1,MAXCRO SELECT 9 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/326.ts
+#EXTINF:-1,MAXCRO SELECT 10 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/327.ts
+#EXTINF:-1,FILMBOX EXTRA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/348.ts
+#EXTINF:-1,::::: PINK :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/349.ts
+#EXTINF:-1,PINK L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/351.ts
+#EXTINF:-1,PINK 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/352.ts
+#EXTINF:-1,PINK PLUS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/353.ts
+#EXTINF:-1,PINK MEDIA BH
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/354.ts
+#EXTINF:-1,PINK COMEDY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/355.ts
+#EXTINF:-1,PINK CLASSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/356.ts
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/357.ts
+#EXTINF:-1,PINK FILM
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/358.ts
+#EXTINF:-1,PINK FILM L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/359.ts
+#EXTINF:-1,PINK ACTION
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/360.ts
+#EXTINF:-1,PINK ACTION L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/361.ts
+#EXTINF:-1,PINK HORROR
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/362.ts
+#EXTINF:-1,PINK HORROR L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/363.ts
+#EXTINF:-1,PINK MOVIES
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/364.ts
+#EXTINF:-1,PINK MOVIES L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/365.ts
+#EXTINF:-1,PINK WORLD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/366.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/367.ts
+#EXTINF:-1,PINK WORLD CINEMA L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/368.ts
+#EXTINF:-1,PINK WESTERN
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/369.ts
+#EXTINF:-1,PINK WESTERN L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/370.ts
+#EXTINF:-1,PINK THRILLER
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/371.ts
+#EXTINF:-1,PINK THRILLER L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/372.ts
+#EXTINF:-1,PINK SCI FI & FANTASY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/373.ts
+#EXTINF:-1,PINK SERIJE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/374.ts
+#EXTINF:-1,PINK ZABAVA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/375.ts
+#EXTINF:-1,PINK ROMANCE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/376.ts
+#EXTINF:-1,PINK PREMIUM
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/377.ts
+#EXTINF:-1,PINK SOAP
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/378.ts
+#EXTINF:-1,PINK EXTRA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/379.ts
+#EXTINF:-1,PINK LOL
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/380.ts
+#EXTINF:-1,PINK HAHA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/381.ts
+#EXTINF:-1,PINK SHOW
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/382.ts
+#EXTINF:-1,PINK STYLE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/383.ts
+#EXTINF:-1,PINK FASHION
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/384.ts
+#EXTINF:-1,PINK FAMILY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/385.ts
+#EXTINF:-1,PINK REALITY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/386.ts
+#EXTINF:-1,VIASAT EXPLORE (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/402.ts
+#EXTINF:-1,VIASAT HISTORY (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/403.ts
+#EXTINF:-1,VIASAT NATURE (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/404.ts
+#EXTINF:-1,HISTORY CHANNEL (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/405.ts
+#EXTINF:-1,HISTORY CHANNEL 2 (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/406.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/407.ts
+#EXTINF:-1,DISCOVERY SCIENCE (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/408.ts
+#EXTINF:-1,DISCOVERY ID (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/409.ts
+#EXTINF:-1,NAT GEO WILD (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/410.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/411.ts
+#EXTINF:-1,ANIMAL PLANET (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/412.ts
+#EXTINF:-1,BBC EARTH (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/413.ts
+#EXTINF:-1,E! (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/414.ts
+#EXTINF:-1,TLC HD (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/415.ts
+#EXTINF:-1,CBS REALITY (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/416.ts
+#EXTINF:-1,CRIME INVESTIGATION (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/417.ts
+#EXTINF:-1,DA VINCI LEARNING (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/419.ts
+#EXTINF:-1,DTX HD (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/420.ts
+#EXTINF:-1,DOCUBOX (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/421.ts
+#EXTINF:-1,DOKU TV (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/422.ts
+#EXTINF:-1,FOOD NEWORK (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/424.ts
+#EXTINF:-1,LOV I RIBOLOV (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/425.ts
+#EXTINF:-1,24 KITCHEN (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/426.ts
+#EXTINF:-1,PINK KUVAR (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/427.ts
+#EXTINF:-1,PINK PEDIA (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/428.ts
+#EXTINF:-1,TRAVEL CHANNEL (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/429.ts
+#EXTINF:-1,WOMAN (DOC)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/430.ts
+#EXTINF:-1,PLANET EARTH (Test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/431.ts
+#EXTINF:-1,♫ ♫ MUZIKA ♫ ♫
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/432.ts
+#EXTINF:-1,SEVDAH TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/433.ts
+#EXTINF:-1,HAYAT FOLK
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/434.ts
+#EXTINF:-1,SEHARA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/435.ts
+#EXTINF:-1,DM SAT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/436.ts
+#EXTINF:-1,IDJ TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/437.ts
+#EXTINF:-1,BN MUSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/439.ts
+#EXTINF:-1,OTV VALENTINO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/440.ts
+#EXTINF:-1,IZVORNA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/442.ts
+#EXTINF:-1,GRAND TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/444.ts
+#EXTINF:-1,GRAND 2 TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/445.ts
+#EXTINF:-1,CityPLAY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/448.ts
+#EXTINF:-1,TOXIC TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/449.ts
+#EXTINF:-1,JUGOTON TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/452.ts
+#EXTINF:-1,CMC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/453.ts
+#EXTINF:-1,DMC TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/454.ts
+#EXTINF:-1,HAYAT MUSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/456.ts
+#EXTINF:-1,BALKANIKA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/458.ts
+#EXTINF:-1,YU PLANET
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/459.ts
+#EXTINF:-1,IMPERIA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/460.ts
+#EXTINF:-1,PINK FOLK 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/461.ts
+#EXTINF:-1,PINK FOLK 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/462.ts
+#EXTINF:-1,PINK HITS 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/463.ts
+#EXTINF:-1,PINK KONCERT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/464.ts
+#EXTINF:-1,PINK MUSIC 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/465.ts
+#EXTINF:-1,PINK MUSIC 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/466.ts
+#EXTINF:-1,ROMA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/468.ts
+#EXTINF:-1,PINK N ROLL
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/470.ts
+#EXTINF:-1,VH1 CLASSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/471.ts
+#EXTINF:-1,VH1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/472.ts
+#EXTINF:-1,MTV ADRIA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/473.ts
+#EXTINF:-1,MTV BASE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/474.ts
+#EXTINF:-1,MTV CLASSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/475.ts
+#EXTINF:-1,MTV DANCE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/476.ts
+#EXTINF:-1,MTV HITS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/477.ts
+#EXTINF:-1,MTV MUSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/478.ts
+#EXTINF:-1,MTV ROCKS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/479.ts
+#EXTINF:-1,MEZZO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/480.ts
+#EXTINF:-1,MASA I MEDO 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/483.ts
+#EXTINF:-1,TOM AND JERYY 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/484.ts
+#EXTINF:-1,GRADITELJ BOB 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/487.ts
+#EXTINF:-1,SPUZVA BOB 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/490.ts
+#EXTINF:-1,HAYATOVCI
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/491.ts
+#EXTINF:-1,MINI TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/494.ts
+#EXTINF:-1,MINIMAX
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/495.ts
+#EXTINF:-1,NICK JR (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/498.ts
+#EXTINF:-1,NICK JR (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/499.ts
+#EXTINF:-1,NICK JR (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/500.ts
+#EXTINF:-1,LAUDATO TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/107.ts
+#EXTINF:-1,PRVA FILES (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/131.ts
+#EXTINF:-1,PIKABOO (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/502.ts
+#EXTINF:-1,PINK KIDS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/503.ts
+#EXTINF:-1,PINK SUPER KIDS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/504.ts
+#EXTINF:-1,RTL KOCKICA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/505.ts
+#EXTINF:-1,BABY TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/507.ts
+#EXTINF:-1,TNT KIDS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/509.ts
+#EXTINF:-1,VAVOOM TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/510.ts
+#EXTINF:-1,BOOMERANG (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/511.ts
+#EXTINF:-1,CARTOON NETWORK (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/512.ts
+#EXTINF:-1,DISNEY CHANNEL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/513.ts
+#EXTINF:-1,DISNEY JUNIOR (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/515.ts
+#EXTINF:-1,NICKELODEON (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/516.ts
+#EXTINF:-1,SUPER RTL HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/517.ts
+#EXTINF:-1,KIKA (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/518.ts
+#EXTINF:-1,CARTOON NETWORK (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/519.ts
+#EXTINF:-1,DISNEY CHANNEL (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/520.ts
+#EXTINF:-1,DISNEY CHANNEL (DK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/524.ts
+#EXTINF:-1,NICKELODEON (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/528.ts
+#EXTINF:-1,VERONICA DISNEY (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/529.ts
+#EXTINF:-1,BABY TV (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/530.ts
+#EXTINF:-1,CARTOON NETWORK (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/531.ts
+#EXTINF:-1,DISNEY CHANNEL (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/532.ts
+#EXTINF:-1,ARENA 1 (BiH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/535.ts
+#EXTINF:-1,ARENA 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/536.ts
+#EXTINF:-1,ARENA 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/538.ts
+#EXTINF:-1,ARENA 3 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/540.ts
+#EXTINF:-1,ARENA 4 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/542.ts
+#EXTINF:-1,ARENA 5 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/544.ts
+#EXTINF:-1,ARENA 1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/546.ts
+#EXTINF:-1,ARENA 2 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/547.ts
+#EXTINF:-1,ARENA 3 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/548.ts
+#EXTINF:-1,ARENA 4 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/549.ts
+#EXTINF:-1,ARENA 5 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/550.ts
+#EXTINF:-1,ARENA 6 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/551.ts
+#EXTINF:-1,ARENA 7 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/552.ts
+#EXTINF:-1,ARENA 8 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/553.ts
+#EXTINF:-1,ARENA 9 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/554.ts
+#EXTINF:-1,ARENA 10 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/555.ts
+#EXTINF:-1,SPORT KLUB 1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/556.ts
+#EXTINF:-1,SPORT KLUB 3 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/560.ts
+#EXTINF:-1,SPORT KLUB 4 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/562.ts
+#EXTINF:-1,SPORT KLUB 5 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/563.ts
+#EXTINF:-1,SPORT KLUB 6 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/564.ts
+#EXTINF:-1,SPORT KLUB HD (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/566.ts
+#EXTINF:-1,SPORT KLUB 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/567.ts
+#EXTINF:-1,SPORT KLUB 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/569.ts
+#EXTINF:-1,SPORT KLUB 2 (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/570.ts
+#EXTINF:-1,SPORT KLUB 3 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/571.ts
+#EXTINF:-1,SPORT KLUB 3 (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/572.ts
+#EXTINF:-1,SPORT KLUB 4 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/573.ts
+#EXTINF:-1,SPORT KLUB 5 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/574.ts
+#EXTINF:-1,SPORT KLUB GOLF
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/575.ts
+#EXTINF:-1,SPORT KLUB 1 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/576.ts
+#EXTINF:-1,SPORT KLUB 2 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/577.ts
+#EXTINF:-1,SPORT KLUB 3 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/578.ts
+#EXTINF:-1,SPORT KLUB (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/583.ts
+#EXTINF:-1,SPORTSKA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/584.ts
+#EXTINF:-1,SOS (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/585.ts
+#EXTINF:-1,NOVA SPORT (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/587.ts
+#EXTINF:-1,B LIGA 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/588.ts
+#EXTINF:-1,B LIGA 1 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/589.ts
+#EXTINF:-1,B LIGA 2 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/590.ts
+#EXTINF:-1,B LIGA 2 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/591.ts
+#EXTINF:-1,B LIGA 3 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/592.ts
+#EXTINF:-1,B LIGA 4 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/594.ts
+#EXTINF:-1,B LIGA 5 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/595.ts
+#EXTINF:-1,S SPORT 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/597.ts
+#EXTINF:-1,S SPORT 1 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/598.ts
+#EXTINF:-1,S SPORT 2 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/599.ts
+#EXTINF:-1,S SPORT 2 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/600.ts
+#EXTINF:-1,S SPORT 3 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/601.ts
+#EXTINF:-1,S SPORT 4 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/602.ts
+#EXTINF:-1,S SPORT 5 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/603.ts
+#EXTINF:-1,S SPORT AUSTRIA (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/605.ts
+#EXTINF:-1,S SPORTS NEWS (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/607.ts
+#EXTINF:-1,SPORT 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/609.ts
+#EXTINF:-1,SPORT 1+ (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/610.ts
+#EXTINF:-1,DAZN 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/611.ts
+#EXTINF:-1,DAZN 2 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/612.ts
+#EXTINF:-1,S SPORTS F1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/613.ts
+#EXTINF:-1,S SPORTS F1 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/614.ts
+#EXTINF:-1,AUTO MOTOR SPORT (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/616.ts
+#EXTINF:-1,MOTORVISION (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/617.ts
+#EXTINF:-1,RMC SPORT 1 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/619.ts
+#EXTINF:-1,RMC SPORT 2 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/620.ts
+#EXTINF:-1,RMC SPORT 3 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/621.ts
+#EXTINF:-1,RMC SPORT 4 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/622.ts
+#EXTINF:-1,RMC SPORT 5 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/623.ts
+#EXTINF:-1,RMC SPORT 6 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/624.ts
+#EXTINF:-1,RMC SPORT 7 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/625.ts
+#EXTINF:-1,BEIN SPORTS 1 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/627.ts
+#EXTINF:-1,BEIN SPORTS 2 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/628.ts
+#EXTINF:-1,BEIN SPORTS 3 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/629.ts
+#EXTINF:-1,BEIN SPORTS 4 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/630.ts
+#EXTINF:-1,BEIN SPORTS 5 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/631.ts
+#EXTINF:-1,BEIN SPORTS 6 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/632.ts
+#EXTINF:-1,BEIN SPORTS 7 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/633.ts
+#EXTINF:-1,BEIN SPORTS HABER (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/634.ts
+#EXTINF:-1,BEIN SPORTS 1 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/636.ts
+#EXTINF:-1,BEIN SPORTS 2 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/637.ts
+#EXTINF:-1,BEIN SPORTS 3 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/638.ts
+#EXTINF:-1,BEIN SPORTS 4 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/639.ts
+#EXTINF:-1,BEIN SPORTS 1 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/640.ts
+#EXTINF:-1,BEIN SPORTS 2 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/641.ts
+#EXTINF:-1,BEIN SPORTS 3 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/642.ts
+#EXTINF:-1,BEIN SPORTS 4 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/643.ts
+#EXTINF:-1,BEIN SPORTS 5 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/644.ts
+#EXTINF:-1,BEIN SPORTS 6 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/645.ts
+#EXTINF:-1,BEIN SPORTS 7 (AR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/648.ts
+#EXTINF:-1,BT SPORT 1 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/651.ts
+#EXTINF:-1,BT SPORT 2 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/652.ts
+#EXTINF:-1,BT SPORT 3 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/653.ts
+#EXTINF:-1,CANAL+ SPORT (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/655.ts
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/656.ts
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/657.ts
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/658.ts
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/659.ts
+#EXTINF:-1,DIGI SPORT 1 (HU)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/660.ts
+#EXTINF:-1,DIGI SPORT 2 (HU)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/661.ts
+#EXTINF:-1,ELEVEN SPORT 1 (PL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/663.ts
+#EXTINF:-1,ELEVEN SPORT 2 (PL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/664.ts
+#EXTINF:-1,ELEVEN SPORT 3 (PL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/665.ts
+#EXTINF:-1,ELEVEN SPORT 4 (PL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/666.ts
+#EXTINF:-1,EUROSPORT 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/667.ts
+#EXTINF:-1,EUROSPORT 2 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/668.ts
+#EXTINF:-1,EUROSPORT 1 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/669.ts
+#EXTINF:-1,EUROSPORT 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/670.ts
+#EXTINF:-1,EUROSPORT 1 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/671.ts
+#EXTINF:-1,EUROSPORT 2 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/672.ts
+#EXTINF:-1,EUROSPORT 1 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/673.ts
+#EXTINF:-1,EUROSPORT 2 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/674.ts
+#EXTINF:-1,EUROSPORT 1 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/675.ts
+#EXTINF:-1,EUROSPORT 2 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/676.ts
+#EXTINF:-1,FIGHT BOX (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/680.ts
+#EXTINF:-1,FIGHT CHANNEL (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/681.ts
+#EXTINF:-1,NBA TV (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/682.ts
+#EXTINF:-1,ORF SPORT+ (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/683.ts
+#EXTINF:-1,REAL MADRID TV (SPA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/684.ts
+#EXTINF:-1,BARCA TV (SPA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/685.ts
+#EXTINF:-1,S SPORTS CRICKET (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/686.ts
+#EXTINF:-1,S SPORTS GOLF (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/687.ts
+#EXTINF:-1,S SPORTS MAIN EVENT (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/688.ts
+#EXTINF:-1,S SPORTS MIX (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/689.ts
+#EXTINF:-1,SPORT TV 1 (PT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/690.ts
+#EXTINF:-1,SPORT TV 2 (PT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/691.ts
+#EXTINF:-1,SPORT TV 3 (PT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/692.ts
+#EXTINF:-1,SPORT TV 4 (PT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/693.ts
+#EXTINF:-1,SPORT TV 5 (PT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/694.ts
+#EXTINF:-1,SUPER SPORT NEWS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/695.ts
+#EXTINF:-1,SUPER SPORT 2 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/696.ts
+#EXTINF:-1,SUPER SPORT 3 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/697.ts
+#EXTINF:-1,SUPER SPORT 4 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/698.ts
+#EXTINF:-1,TRING SPORT 1 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/699.ts
+#EXTINF:-1,TRING SPORT 2 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/700.ts
+#EXTINF:-1,TRING SPORT 3 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/701.ts
+#EXTINF:-1,TRING SPORT 4 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/702.ts
+#EXTINF:-1,TSN 1 (CA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/703.ts
+#EXTINF:-1,TSN 2 (CA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/704.ts
+#EXTINF:-1,TSN 3 (CA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/705.ts
+#EXTINF:-1,TSN 4 (CA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/706.ts
+#EXTINF:-1,C MORE FOTBOLL(SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/707.ts
+#EXTINF:-1,C MORE HOCKEY (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/708.ts
+#EXTINF:-1,C MORE LIVE (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/709.ts
+#EXTINF:-1,C MORE SPORT (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/710.ts
+#EXTINF:-1,VIASAT FOTBOLL (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/711.ts
+#EXTINF:-1,VIASAT MOTOR (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/713.ts
+#EXTINF:-1,VIASAT SPORT (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/714.ts
+#EXTINF:-1,VIASAT SPORT PREMIUM (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/715.ts
+#EXTINF:-1,EUROSPORT 1 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/716.ts
+#EXTINF:-1,EUROSPORT 2 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/717.ts
+#EXTINF:-1,ESPN 1 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/718.ts
+#EXTINF:-1,ESPN 1 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/719.ts
+#EXTINF:-1,ESPN 2 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/720.ts
+#EXTINF:-1,ESPN 2 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/721.ts
+#EXTINF:-1,ESPN 3 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/722.ts
+#EXTINF:-1,ESPN 3 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/723.ts
+#EXTINF:-1,ESPN 4 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/724.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/727.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/728.ts
+#EXTINF:-1,ZIGGO SPORT SELECT (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/729.ts
+#EXTINF:-1,ZIGGO SPORT SELECT (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/730.ts
+#EXTINF:-1,ZIGGO SPORT EXTRA (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/731.ts
+#EXTINF:-1,ZIGGO SPORT RACING (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/732.ts
+#EXTINF:-1,ZIGGO SPORT GOLF (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/733.ts
+#EXTINF:-1,ZIGGO SPORT DOCU (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/734.ts
+#EXTINF:-1,RTL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/737.ts
+#EXTINF:-1,RTL 2 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/739.ts
+#EXTINF:-1,RTL CRIME (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/740.ts
+#EXTINF:-1,RTL LIVING (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/742.ts
+#EXTINF:-1,RTL NITRO (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/743.ts
+#EXTINF:-1,RTL PASSION (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/744.ts
+#EXTINF:-1,RTL UP (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/745.ts
+#EXTINF:-1,SUPER RTL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/746.ts
+#EXTINF:-1,PRO 7 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/747.ts
+#EXTINF:-1,PRO 7 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/748.ts
+#EXTINF:-1,PRO 7 FUN HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/749.ts
+#EXTINF:-1,PRO 7 MAXX(DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/750.ts
+#EXTINF:-1,13 STREET (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/751.ts
+#EXTINF:-1,ORBIS (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1519.ts
+#EXTINF:-1,M NET (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1520.ts
+#EXTINF:-1,RTS POLETARAC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1521.ts
+#EXTINF:-1,MEDINA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1523.ts
+#EXTINF:-1,A LA CARTE 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1524.ts
+#EXTINF:-1,A LA CARTE 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1525.ts
+#EXTINF:-1,A LA CARTE 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1526.ts
+#EXTINF:-1,A LA CARTE 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1527.ts
+#EXTINF:-1,A LA CARTE 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1528.ts
+#EXTINF:-1,CANALPLAY 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1529.ts
+#EXTINF:-1,CANALPLAY 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1530.ts
+#EXTINF:-1,CANAL PLAY 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1531.ts
+#EXTINF:-1,CANALPLAY 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1532.ts
+#EXTINF:-1,CANALPLAY 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1533.ts
+#EXTINF:-1,VTM HD (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1252.ts
+#EXTINF:-1,LA UNE (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1254.ts
+#EXTINF:-1,CAZ HD (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1255.ts
+#EXTINF:-1,CANVAS HD (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1256.ts
+#EXTINF:-1,LA TROIS (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1257.ts
+#EXTINF:-1,EEN (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1258.ts
+#EXTINF:-1,::::: RUMUNIA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1259.ts
+#EXTINF:-1,AGRO TV (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1260.ts
+#EXTINF:-1,ANTENA 1 HD (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1261.ts
+#EXTINF:-1,ANTENA 3 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1262.ts
+#EXTINF:-1,ANTENA STARS (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1263.ts
+#EXTINF:-1,CINEMAX 1 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1271.ts
+#EXTINF:-1,CINEMAX 2 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1272.ts
+#EXTINF:-1,DISCOVERY ID (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1278.ts
+#EXTINF:-1,E! ENTERTAINMENT (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1283.ts
+#EXTINF:-1,NATIONAL TV (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1304.ts
+#EXTINF:-1,TLC (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1312.ts
+#EXTINF:-1,TNT (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1313.ts
+#EXTINF:-1,TRAVEL (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1314.ts
+#EXTINF:-1,TV PAPRIKA (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1315.ts
+#EXTINF:-1,TV1000 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1316.ts
+#EXTINF:-1,TVR1 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1317.ts
+#EXTINF:-1,TVR2 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1318.ts
+#EXTINF:-1,TVR3 (RO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1319.ts
+#EXTINF:-1,::::: BUGARSKA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1320.ts
+#EXTINF:-1,BNT 1 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1322.ts
+#EXTINF:-1,BTV ACTION HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1324.ts
+#EXTINF:-1,BTV COMEDY HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1326.ts
+#EXTINF:-1,BTV HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1327.ts
+#EXTINF:-1,CINEMAX 2 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1328.ts
+#EXTINF:-1,CINEMAX HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1329.ts
+#EXTINF:-1,DIEMA (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1330.ts
+#EXTINF:-1,FOX CRIME HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1333.ts
+#EXTINF:-1,FOX HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1334.ts
+#EXTINF:-1,FOX LIFE HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1335.ts
+#EXTINF:-1,HBO 2 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1336.ts
+#EXTINF:-1,HBO 3 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1337.ts
+#EXTINF:-1,HBO HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1338.ts
+#EXTINF:-1,KINONOVA (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1339.ts
+#EXTINF:-1,MAX SPORT 1 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1341.ts
+#EXTINF:-1,MAX SPORT 2 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1342.ts
+#EXTINF:-1,MAX SPORT 3 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1343.ts
+#EXTINF:-1,MAX SPORT 4 HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1344.ts
+#EXTINF:-1,NATGEO HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1345.ts
+#EXTINF:-1,NATGEO WILD HD (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1346.ts
+#EXTINF:-1,::::: CZECH  :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1395.ts
+#EXTINF:-1,Východočeská TV (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1396.ts
+#EXTINF:-1,RTM PLUS (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1397.ts
+#EXTINF:-1,RETRO (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1398.ts
+#EXTINF:-1,Óčko Gold (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1399.ts
+#EXTINF:-1,Šlágr 2 (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1402.ts
+#EXTINF:-1,POLAR TV (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1403.ts
+#EXTINF:-1,TV NATURA (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1404.ts
+#EXTINF:-1,PRAHA TV (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1405.ts
+#EXTINF:-1,Óčko (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1406.ts
+#EXTINF:-1,Óčko Expres (CZ)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1407.ts
+#EXTINF:-1,::::: GREECE :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1408.ts
+#EXTINF:-1,ERT 1 (GR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1409.ts
+#EXTINF:-1,ERT 2 (GR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1410.ts
+#EXTINF:-1,ERT 3 (GR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1411.ts
+#EXTINF:-1,BARAZA TV GR
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1414.ts
+#EXTINF:-1,STAR
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1417.ts
+#EXTINF:-1,ALPHA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1419.ts
+#EXTINF:-1,KONTRA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1420.ts
+#EXTINF:-1,CNEWS (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18332.ts
+#EXTINF:-1,BFM TV (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18333.ts
+#EXTINF:-1,TFX (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18334.ts
+#EXTINF:-1,CSTAR (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18335.ts
+#EXTINF:-1,ACTION (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18480.ts
+#EXTINF:-1,PARIS PREMIERE (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18481.ts
+#EXTINF:-1,PLANETE+ A&E (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18482.ts
+#EXTINF:-1,PLANETE+ CI (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18483.ts
+#EXTINF:-1,CHASSE & PÊCHE HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18484.ts
+#EXTINF:-1,E! HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18485.ts
+#EXTINF:-1,BREIZH TV (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18486.ts
+#EXTINF:-1,BET (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18487.ts
+#EXTINF:-1,TREK (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18488.ts
+#EXTINF:-1,SYFY (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18489.ts
+#EXTINF:-1,TV5 MONDE (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18490.ts
+#EXTINF:-1,RMC DECOUVERTE (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18491.ts
+#EXTINF:-1,THT (RUS)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23160.ts
+#EXTINF:-1,BALKAN TRIP
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23470.ts
+#EXTINF:-1,UNA TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23313.ts
+#EXTINF:-1,ELTA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18265.ts
+#EXTINF:-1,3SAT (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/753.ts
+#EXTINF:-1,SAT 1 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/754.ts
+#EXTINF:-1,SAT 1 EMOTIONS HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/755.ts
+#EXTINF:-1,SAT 1 GOLD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/756.ts
+#EXTINF:-1,DAS ERSTE (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/757.ts
+#EXTINF:-1,KABEL EINS (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/758.ts
+#EXTINF:-1,KABEL EINS CLASSIC HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/759.ts
+#EXTINF:-1,KABEL EINS DOKU (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/760.ts
+#EXTINF:-1,ZDF (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/761.ts
+#EXTINF:-1,ZDF INFO HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/762.ts
+#EXTINF:-1,ZDF NEO (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/763.ts
+#EXTINF:-1,VOX (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/764.ts
+#EXTINF:-1,VOX (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/765.ts
+#EXTINF:-1,N-TV HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/766.ts
+#EXTINF:-1,N24 DOKU HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/767.ts
+#EXTINF:-1,WDR (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/769.ts
+#EXTINF:-1,WELT TV (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/770.ts
+#EXTINF:-1,ANIXE (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/773.ts
+#EXTINF:-1,ARTE (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/775.ts
+#EXTINF:-1,CRIME+INVENSTIGATION (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/777.ts
+#EXTINF:-1,DMAX (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/778.ts
+#EXTINF:-1,DMAX (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/779.ts
+#EXTINF:-1,KINOWELT TV (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/783.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/784.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/785.ts
+#EXTINF:-1,ANIMAL PLANET (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/786.ts
+#EXTINF:-1,DISCOVERY CHANNEL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/787.ts
+#EXTINF:-1,E! (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/788.ts
+#EXTINF:-1,HISTORY CHANNEL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/789.ts
+#EXTINF:-1,TLC (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/790.ts
+#EXTINF:-1,NDR (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/791.ts
+#EXTINF:-1,REGIO TV HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/793.ts
+#EXTINF:-1,PHOENIX (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/795.ts
+#EXTINF:-1,RFO TV (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/796.ts
+#EXTINF:-1,ROMANCE TV (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/797.ts
+#EXTINF:-1,SIXX (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/798.ts
+#EXTINF:-1,FOX (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/799.ts
+#EXTINF:-1,SKY 1 HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/808.ts
+#EXTINF:-1,SKY ATLANTIC (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/809.ts
+#EXTINF:-1,SKY CINEMA ACTION (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/810.ts
+#EXTINF:-1,SKY CINEMA BEST OF (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/811.ts
+#EXTINF:-1,SKY CINEMA FAMILY (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/812.ts
+#EXTINF:-1,SKY CINEMA NOSTALGIE (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/813.ts
+#EXTINF:-1,SKY CINEMA PREMIEREN (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/815.ts
+#EXTINF:-1,SKY CINEMA SPECIAL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/816.ts
+#EXTINF:-1,SKY CINEMA THRILLER (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/817.ts
+#EXTINF:-1,SKY COMEDY (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/818.ts
+#EXTINF:-1,SKY KRIMI (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/819.ts
+#EXTINF:-1,SKY SELECT 1 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/825.ts
+#EXTINF:-1,SKY SELECT 2 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/826.ts
+#EXTINF:-1,SKY SELECT 3 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/827.ts
+#EXTINF:-1,SKY SELECT 4 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/828.ts
+#EXTINF:-1,SKY SELECT 5 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/829.ts
+#EXTINF:-1,SKY SELECT 6 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/830.ts
+#EXTINF:-1,SKY SELECT 7 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/831.ts
+#EXTINF:-1,SKY SELECT 8 DE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/832.ts
+#EXTINF:-1,WB COMEDY (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/833.ts
+#EXTINF:-1,WB FILM (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/834.ts
+#EXTINF:-1,WB SERIE (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/835.ts
+#EXTINF:-1,SONY AXN (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/836.ts
+#EXTINF:-1,SPIEGEL GESCHICHTE HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/837.ts
+#EXTINF:-1,SYFY (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/838.ts
+#EXTINF:-1,TV INGOLSTADT HD (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/839.ts
+#EXTINF:-1,UNIVERSAL CHANNEL (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/840.ts
+#EXTINF:-1,TELE 5 (DE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/14885.ts
+#EXTINF:-1,FRANCE 24 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1211.ts
+#EXTINF:-1,FRANCE 2 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1212.ts
+#EXTINF:-1,FRANCE 3 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1213.ts
+#EXTINF:-1,FRANCE 4 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1214.ts
+#EXTINF:-1,FRANCE 5 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1215.ts
+#EXTINF:-1,AB1 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1216.ts
+#EXTINF:-1,AB3 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1217.ts
+#EXTINF:-1,GULLI HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1218.ts
+#EXTINF:-1,COMEDIE + (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1219.ts
+#EXTINF:-1,6TER HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1220.ts
+#EXTINF:-1,13 EME RUE HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1221.ts
+#EXTINF:-1,RTL 9 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1222.ts
+#EXTINF:-1,W9 HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1223.ts
+#EXTINF:-1,TF1 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1224.ts
+#EXTINF:-1,TMC (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1225.ts
+#EXTINF:-1,M6 (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1226.ts
+#EXTINF:-1,M6 MUSIC (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1227.ts
+#EXTINF:-1,CANAL+ (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1228.ts
+#EXTINF:-1,CANAL+ DECALE (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1229.ts
+#EXTINF:-1,CANAL+ FAMILY (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1230.ts
+#EXTINF:-1,CANAL+ CINEMA (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1231.ts
+#EXTINF:-1,CINE+ EMOTION HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1232.ts
+#EXTINF:-1,CINE+ FAMIZ (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1233.ts
+#EXTINF:-1,CINE+ CLASSIC HD (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1234.ts
+#EXTINF:-1,CINE+ FRISSON (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1236.ts
+#EXTINF:-1,CINE+ PREMIER (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1237.ts
+#EXTINF:-1,CANAL+ SPORT (FR) EKO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1238.ts
+#EXTINF:-1,DISNEY JUNIOR (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1239.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1241.ts
+#EXTINF:-1,ARTE (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1243.ts
+#EXTINF:-1,DISCOVERY (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1244.ts
+#EXTINF:-1,OCS MAX (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1245.ts
+#EXTINF:-1,OCS GEANTS (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1246.ts
+#EXTINF:-1,OCS CHOC (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1247.ts
+#EXTINF:-1,OCS CITY (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1248.ts
+#EXTINF:-1,C8
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/4987.ts
+#EXTINF:-1,NRJ 12
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/4988.ts
+#EXTINF:-1,TF1 SERIES FILMS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/11889.ts
+#EXTINF:-1,AMAZON PRIME 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16269.ts
+#EXTINF:-1,AMAZON PRIME 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16270.ts
+#EXTINF:-1,AMAZON PRIME 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16272.ts
+#EXTINF:-1,AMAZON PRIME 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16273.ts
+#EXTINF:-1,::::: UK & USA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/916.ts
+#EXTINF:-1,BBC ONE (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/917.ts
+#EXTINF:-1,BBC TWO (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/918.ts
+#EXTINF:-1,SKY NEWS (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/919.ts
+#EXTINF:-1,RTE NEWS NOW (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/920.ts
+#EXTINF:-1,RTE ONE (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/921.ts
+#EXTINF:-1,RTE 2 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/922.ts
+#EXTINF:-1,CHANNEL 4 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/923.ts
+#EXTINF:-1,CHANNEL 5 (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/924.ts
+#EXTINF:-1,NAT GEO WILD (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/926.ts
+#EXTINF:-1,DISCOVERY CHANNEL (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/927.ts
+#EXTINF:-1,DISCOVERY SCIENCE (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/928.ts
+#EXTINF:-1,DISCOVERY TURBO (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/929.ts
+#EXTINF:-1,HISTORY CHANNEL (US)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/930.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/931.ts
+#EXTINF:-1,SKY CINEMA ACTION (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/932.ts
+#EXTINF:-1,SKY CINEMA COMEDY (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/933.ts
+#EXTINF:-1,SKY CINEMA FAMILY (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/934.ts
+#EXTINF:-1,SKY CINEMA DRAMA (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/935.ts
+#EXTINF:-1,SKY CINEMA SELECT (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/937.ts
+#EXTINF:-1,CNN (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/938.ts
+#EXTINF:-1,TLC (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/939.ts
+#EXTINF:-1,TRAVEL CHANNEL (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/940.ts
+#EXTINF:-1,TBS HD (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/941.ts
+#EXTINF:-1,HBO SIGNATURE (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/943.ts
+#EXTINF:-1,COMEDY CENTRAL (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/944.ts
+#EXTINF:-1,CBS (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/946.ts
+#EXTINF:-1,AMC (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/947.ts
+#EXTINF:-1,TNT (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/948.ts
+#EXTINF:-1,HGTV (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/949.ts
+#EXTINF:-1,HBO 2 (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/950.ts
+#EXTINF:-1,FOX NEWS (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/954.ts
+#EXTINF:-1,NICK MUSIC (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/955.ts
+#EXTINF:-1,VICELAND (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/956.ts
+#EXTINF:-1,MTV ROCKS (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/957.ts
+#EXTINF:-1,BET JAMS (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/961.ts
+#EXTINF:-1,BRAVO (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/964.ts
+#EXTINF:-1,ANIMAL PLANET (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23482.ts
+#EXTINF:-1,DISCOVERY CHANNEL (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23483.ts
+#EXTINF:-1,DUNA WORLD (HU)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23556.ts
+#EXTINF:-1,TV PAPRIKA (HU)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23579.ts
+#EXTINF:-1,TVO (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/35981.ts
+#EXTINF:-1,ZES (BE)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/35982.ts
+#EXTINF:-1,SUPERSTAR TV (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36256.ts
+#EXTINF:-1,LA 2 (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36265.ts
+#EXTINF:-1,ANTENA 3 (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36266.ts
+#EXTINF:-1,CUATRO (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36267.ts
+#EXTINF:-1,TELECINCO (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36268.ts
+#EXTINF:-1,LA SEXTA (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36269.ts
+#EXTINF:-1,NEOX (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36270.ts
+#EXTINF:-1,DIVINITY (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36271.ts
+#EXTINF:-1,MEGA (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36272.ts
+#EXTINF:-1,24 HORAS (ES)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/36273.ts
+#EXTINF:-1,8 TV (RUS)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37352.ts
+#EXTINF:-1,ZVEZDA (RUS)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37354.ts
+#EXTINF:-1,TV AS (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37356.ts
+#EXTINF:-1,SAT TV (SR) (TEST)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37358.ts
+#EXTINF:-1,RTV MLAVA (SR) (TEST)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37360.ts
+#EXTINF:-1,TANJUG TV (SR) (TEST)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37363.ts
+#EXTINF:-1,EURONEWS SERBIA (SR) (TEST)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37364.ts
+#EXTINF:-1,IN TV AUSTRALIA (MK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37577.ts
+#EXTINF:-1,S SPORT 24 (IT) TEST
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44203.ts
+#EXTINF:-1,RMC STORY (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44913.ts
+#EXTINF:-1,PLANETE+ (FR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47136.ts
+#EXTINF:-1,POLJOPRIVREDNA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/108.ts
+#EXTINF:-1,LIBERTAS TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/109.ts
+#EXTINF:-1,JABUKA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/110.ts
+#EXTINF:-1,RTV BANOVINA (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/111.ts
+#EXTINF:-1,TREND TV KARLOVAC (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/113.ts
+#EXTINF:-1,CRO TV (test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/114.ts
+#EXTINF:-1,RTCG 1 (CG) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/178.ts
+#EXTINF:-1,RTCG 2 (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179.ts
+#EXTINF:-1,RTCG 2 (CG) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/180.ts
+#EXTINF:-1,TV VIJESTI (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/182.ts
+#EXTINF:-1,PINK M (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/183.ts
+#EXTINF:-1,NOVA M (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/184.ts
+#EXTINF:-1,PRVA (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/186.ts
+#EXTINF:-1,NOVA M (CG) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/185.ts
+#EXTINF:-1,SPORT KLUB 1 (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/568.ts
+#EXTINF:-1,::::: SVICARSKA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/841.ts
+#EXTINF:-1,3+ HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/842.ts
+#EXTINF:-1,4+ HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/843.ts
+#EXTINF:-1,5+ HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/844.ts
+#EXTINF:-1,FOLX TV (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/850.ts
+#EXTINF:-1,KANAL 9 (FRANCAIS) (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/852.ts
+#EXTINF:-1,SCHWEIZ 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/857.ts
+#EXTINF:-1,SRF 1 HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/858.ts
+#EXTINF:-1,SRF 2 HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/859.ts
+#EXTINF:-1,SRF iNFO HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/860.ts
+#EXTINF:-1,TELE 1 (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/861.ts
+#EXTINF:-1,TELE M1 (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/863.ts
+#EXTINF:-1,TELE ZURI (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/864.ts
+#EXTINF:-1,TELEBÄRN (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/865.ts
+#EXTINF:-1,TELEBASEL (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/866.ts
+#EXTINF:-1,TELETICINO (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/867.ts
+#EXTINF:-1,TLC HD (CH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/868.ts
+#EXTINF:-1,ORF 1 (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/869.ts
+#EXTINF:-1,ORF 2 (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/870.ts
+#EXTINF:-1,ORF 3 (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/871.ts
+#EXTINF:-1,SERVUS TV (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/872.ts
+#EXTINF:-1,ATV (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/873.ts
+#EXTINF:-1,ATV 2 (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/874.ts
+#EXTINF:-1,PULS 4 (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/875.ts
+#EXTINF:-1,SIXX (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/876.ts
+#EXTINF:-1,DMAX (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/877.ts
+#EXTINF:-1,N24 DOKU (AT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/878.ts
+#EXTINF:-1,::::: ITALIA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/879.ts
+#EXTINF:-1,RAI 1 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/880.ts
+#EXTINF:-1,RAI 2 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/881.ts
+#EXTINF:-1,RAI 3 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/882.ts
+#EXTINF:-1,RAI 4 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/883.ts
+#EXTINF:-1,RAI 5 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/884.ts
+#EXTINF:-1,RAI GULP (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/885.ts
+#EXTINF:-1,RAI YOYO (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/886.ts
+#EXTINF:-1,RAI NEWS 24 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/887.ts
+#EXTINF:-1,RAI PREMIUM (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/888.ts
+#EXTINF:-1,RAI MOVIE (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/889.ts
+#EXTINF:-1,ITALIA 1 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/890.ts
+#EXTINF:-1,ITALIA 2 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/891.ts
+#EXTINF:-1,RETE 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/892.ts
+#EXTINF:-1,CANALE 5 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/893.ts
+#EXTINF:-1,SKY ATLANTIC (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/894.ts
+#EXTINF:-1,NAT GEO WILD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/896.ts
+#EXTINF:-1,DISCOVERY CHANNEL (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/897.ts
+#EXTINF:-1,DMAX (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/898.ts
+#EXTINF:-1,TOP CRIME (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/900.ts
+#EXTINF:-1,PREMIUM CINEMA 1 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/906.ts
+#EXTINF:-1,PRIMAFILA 1 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/908.ts
+#EXTINF:-1,PRIMAFILA 2 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/909.ts
+#EXTINF:-1,PRIMAFILA 3 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/910.ts
+#EXTINF:-1,PRIMAFILA 4 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/911.ts
+#EXTINF:-1,PRIMAFILA 5 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/912.ts
+#EXTINF:-1,PRIMAFILA 6 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/913.ts
+#EXTINF:-1,PRIMAFILA 7 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/914.ts
+#EXTINF:-1,PRIMAFILA 8 HD (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/915.ts
+#EXTINF:-1,MEDIASET EXTRA (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/61351.ts
+#EXTINF:-1,BLIC TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/61350.ts
+#EXTINF:-1,PINK HITS 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49360.ts
+#EXTINF:-1,NARODNI TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49343.ts
+#EXTINF:-1,SPORT KLUB 3 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49331.ts
+#EXTINF:-1,SPORT KLUB 1 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49329.ts
+#EXTINF:-1,S SPORTS PREMIER LEAGUE (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49326.ts
+#EXTINF:-1,DVA I POL MUSKARCA 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48815.ts
+#EXTINF:-1,DELUXE MUSIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48823.ts
+#EXTINF:-1,RTL PLAY PREMIUM (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48812.ts
+#EXTINF:-1,KAFANSKO VECE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48811.ts
+#EXTINF:-1,UZIVOTEKA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48810.ts
+#EXTINF:-1,MUNCHEN TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48809.ts
+#EXTINF:-1,ADULT 8 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48514.ts
+#EXTINF:-1,ADULT 7 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48513.ts
+#EXTINF:-1,ADULT 1 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48507.ts
+#EXTINF:-1,ADULT 2 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48508.ts
+#EXTINF:-1,ADULT 3 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48509.ts
+#EXTINF:-1,ADULT 4 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48510.ts
+#EXTINF:-1,ADULT 5 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48511.ts
+#EXTINF:-1,ADULT 6 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48512.ts
+#EXTINF:-1,PINK EROTIC 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48497.ts
+#EXTINF:-1,PINK EROTIC 6
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48498.ts
+#EXTINF:-1,PINK EROTIC 7
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48499.ts
+#EXTINF:-1,DORCEL TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48503.ts
+#EXTINF:-1,BLUE HUSTLER
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48505.ts
+#EXTINF:-1,PINK EROTIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48493.ts
+#EXTINF:-1,PINK EROTIC 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48494.ts
+#EXTINF:-1,PINK EROTIC 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48495.ts
+#EXTINF:-1,PINK EROTIC 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48496.ts
+#EXTINF:-1,XXX: PENTHOUSE GOLD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48305.ts
+#EXTINF:-1,XXX KEMO 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48318.ts
+#EXTINF:-1,XXX KEMO 6
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48321.ts
+#EXTINF:-1,XXX KEMO 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48298.ts
+#EXTINF:-1,XXX: FAKE AGENT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48299.ts
+#EXTINF:-1,XXX: VIVIDRED
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48301.ts
+#EXTINF:-1,XXX KEMO 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48302.ts
+#EXTINF:-1,XXX KEMO 5
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48303.ts
+#EXTINF:-1,S Sports Main Event (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48269.ts
+#EXTINF:-1,XXX: HUSTLER
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48280.ts
+#EXTINF:-1,XXX: DUSK
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48283.ts
+#EXTINF:-1,XXX: REDLIGHT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48284.ts
+#EXTINF:-1,XXX: PRIVATE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48285.ts
+#EXTINF:-1,XXX: BALKAN EROTIC
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48293.ts
+#EXTINF:-1,XXX KEMO 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48296.ts
+#EXTINF:-1,S Sports Premier League (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48268.ts
+#EXTINF:-1,S Sports Arena (UK)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/48266.ts
+#EXTINF:-1,INSAJDER (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47937.ts
+#EXTINF:-1,TOTAL CINEMA 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47932.ts
+#EXTINF:-1,TOTAL CINEMA 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47933.ts
+#EXTINF:-1,DOX TV
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47631.ts
+#EXTINF:-1,MAX SPORT 2 (HR)  L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47634.ts
+#EXTINF:-1,MAX SPORT 1 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47635.ts
+#EXTINF:-1,MAX SPORT 2 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47400.ts
+#EXTINF:-1,BALKAN FOLK
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47626.ts
+#EXTINF:-1,BEE TV (Pcelarstvo)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47630.ts
+#EXTINF:-1,KLAPE I TAMBURE(test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47280.ts
+#EXTINF:-1,SPORT KLUB HD (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47356.ts
+#EXTINF:-1,MAX SPORT 1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/47399.ts
+#EXTINF:-1,NOVA TV (BG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/45484.ts
+#EXTINF:-1,NOVA WORLD (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44916.ts
+#EXTINF:-1,UFC (USA)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/45264.ts
+#EXTINF:-1,MAXCRO SELECT 11 HD
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/45272.ts
+#EXTINF:-1,S SPORT UNO (IT) TEST
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44206.ts
+#EXTINF:-1,HAPPY TV (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44211.ts
+#EXTINF:-1,DAZN 2 (IT) TEST
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44202.ts
+#EXTINF:-1,DAZN 1 (IT) TEST
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44201.ts
+#EXTINF:-1,BALKAN SKY-PREMIERE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/71205.ts
+#EXTINF:-1,BALKAN SKY-ACTION
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/71206.ts
+#EXTINF:-1,MUCKE
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/71207.ts
+#EXTINF:-1,PRIJATELJI 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/71208.ts
+#EXTINF:-1,C MORE MAX 2 (FI)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/74061.ts
+#EXTINF:-1,ONS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75442.ts
+#EXTINF:-1,RTL CROATIA WORLD (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75911.ts
+#EXTINF:-1,N1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75913.ts
+#EXTINF:-1,N1 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75914.ts
+#EXTINF:-1,Z1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75915.ts
+#EXTINF:-1,MREZA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75916.ts
+#EXTINF:-1,VINKOVACKA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75917.ts
+#EXTINF:-1,SLAVONSKA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75918.ts
+#EXTINF:-1,OSJECKA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75919.ts
+#EXTINF:-1,TV JADRAN (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75920.ts
+#EXTINF:-1,HRT 1 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75921.ts
+#EXTINF:-1,HRT 1 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75922.ts
+#EXTINF:-1,HRT 2 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75923.ts
+#EXTINF:-1,HRT 2 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75924.ts
+#EXTINF:-1,HRT 3 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75925.ts
+#EXTINF:-1,HRT 3 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75926.ts
+#EXTINF:-1,HRT 4 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75927.ts
+#EXTINF:-1,HRT 4 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75928.ts
+#EXTINF:-1,HRT INT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75929.ts
+#EXTINF:-1,DOMA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75932.ts
+#EXTINF:-1,DOMA TV (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75933.ts
+#EXTINF:-1,RTL (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75934.ts
+#EXTINF:-1,RTL 2 (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75936.ts
+#EXTINF:-1,RTL 2 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75937.ts
+#EXTINF:-1,RTL CRIME (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75938.ts
+#EXTINF:-1,RTL LIVING (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75939.ts
+#EXTINF:-1,RTL PASSION (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75940.ts
+#EXTINF:-1,RTL ADRIA (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75941.ts
+#EXTINF:-1,TELEVIZIJA 5 (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/76024.ts
+#EXTINF:-1,MTV IGMAN (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/76025.ts
+#EXTINF:-1,MEKKA TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/76026.ts
+#EXTINF:-1,BIR TV (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/76027.ts
+#EXTINF:-1,ARENA 1 (BiH) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/142236.ts
+#EXTINF:-1,MИP(RUS)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144985.ts
+#EXTINF:-1,CTC(RUS)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144986.ts
+#EXTINF:-1,RTCG SAT (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151967.ts
+#EXTINF:-1,ALBA XXX 1
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151968.ts
+#EXTINF:-1,ALBA XXX 2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151969.ts
+#EXTINF:-1,ALBA XXX 3
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151970.ts
+#EXTINF:-1,ALBA XXX 4
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151971.ts
+#EXTINF:-1,NOVA BH (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/14.ts
+#EXTINF:-1,ARENA 1 PREMIUM (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151476.ts
+#EXTINF:-1,BN (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/24.ts
+#EXTINF:-1,BN 2 (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/126234.ts
+#EXTINF:-1,ARENA 1 PREMIUM (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18328.ts
+#EXTINF:-1,ARENA 2 PREMIUM (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18329.ts
+#EXTINF:-1,ARENA 2 PREMIUM (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151477.ts
+#EXTINF:-1,ARENA 3 PREMIUM (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/151478.ts
+#EXTINF:-1,ARENA 6 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17062.ts
+#EXTINF:-1,ARENA 1 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/20677.ts
+#EXTINF:-1,ARENA 2 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/20678.ts
+#EXTINF:-1,ARENA 3 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/20679.ts
+#EXTINF:-1,ARENA 4 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/20680.ts
+#EXTINF:-1,ARENA FIGHT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21150.ts
+#EXTINF:-1,ARENA 1 PREMIUM (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23314.ts
+#EXTINF:-1,ARENA 2 PREMIUM (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23315.ts
+#EXTINF:-1,ARENA 3 PREMIUM (SR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23316.ts
+#EXTINF:-1,ARENA 8 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/74757.ts
+#EXTINF:-1,ARENA 7 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/74756.ts
+#EXTINF:-1,ARENA 3 PREMIUM (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/90512.ts
+#EXTINF:-1,RTCG PARLAMENT (CG)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/72141.ts
+#EXTINF:-1,GRADSKA TV (test)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/148193.ts
+#EXTINF:-1,TV KLADOVO (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17061.ts
+#EXTINF:-1,SUPERSTAR TV 2 (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17066.ts
+#EXTINF:-1,INSTA TV (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/73384.ts
+#EXTINF:-1,NOVA MAX (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75390.ts
+#EXTINF:-1,NOVA SERIES (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/128552.ts
+#EXTINF:-1,NICKELODEON  (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/18257.ts
+#EXTINF:-1,NICKTOONS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/134157.ts
+#EXTINF:-1,PINK PANTHER 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/50817.ts
+#EXTINF:-1,NICKELODEON (SR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/134158.ts
+#EXTINF:-1,LOONEY TUNES 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17037.ts
+#EXTINF:-1,MR BEAN 24H
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/17038.ts
+#EXTINF:-1,MOJA TV PREMIER LIGA (BIH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/534.ts
+#EXTINF:-1,Kujtesa sport 1 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16278.ts
+#EXTINF:-1,Kujtesa sport 2 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16279.ts
+#EXTINF:-1,Kujtesa sport 3 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16280.ts
+#EXTINF:-1,Kujtesa sport 4 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16281.ts
+#EXTINF:-1,Super Sport Kosova 1 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16282.ts
+#EXTINF:-1,Super Sport Kosova 2 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16283.ts
+#EXTINF:-1,SPORT TV 3 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/73495.ts
+#EXTINF:-1,SPORT TV 2 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/73494.ts
+#EXTINF:-1,SPORT TV 1 (SLO)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/73493.ts
+#EXTINF:-1,SPORT KLUB 2 (HR) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49330.ts
+#EXTINF:-1,SPORT KLUB FIGHT
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/73377.ts
+#EXTINF:-1,DAZN 1 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37284.ts
+#EXTINF:-1,DAZN 2 (DE) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37285.ts
+#EXTINF:-1,S SPORT F1 (IT)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/44204.ts
+#EXTINF:-1,KRAL (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1003.ts
+#EXTINF:-1,MINIKA COCUK(TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/990.ts
+#EXTINF:-1,TGRT HABER (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/994.ts
+#EXTINF:-1,TRT BELGESEL (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/996.ts
+#EXTINF:-1,TRT TURK (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/999.ts
+#EXTINF:-1,SHOW TV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1000.ts
+#EXTINF:-1,STAR TV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1001.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/975.ts
+#EXTINF:-1,DISCOVERY ID (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21359.ts
+#EXTINF:-1,FERERACIJA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179708.ts
+#EXTINF:-1,FEDERACIJA
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179709.ts
+#EXTINF:-1,ILIJAS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179710.ts
+#EXTINF:-1,RADIO SARAJEVO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179711.ts
+#EXTINF:-1,RADIO SARAJEVO
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179713.ts
+#EXTINF:-1,IIJAS
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179714.ts
+#EXTINF:-1,NOVA Max (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179715.ts
+#EXTINF:-1,RTSH 3 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1014.ts
+#EXTINF:-1,VIASAT SERIES HD (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/179726.ts
+#EXTINF:-1,XXX: 16
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49319.ts
+#EXTINF:-1,XXX: 13
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/49316.ts
+#EXTINF:-1,MY TV (BiH)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/180042.ts
+#EXTINF:-1,NOVA TV (HR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/186021.ts
+#EXTINF:-1,NPO POLITIEK (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1081.ts
+#EXTINF:-1,NPO 1 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1082.ts
+#EXTINF:-1,NPO 1 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1083.ts
+#EXTINF:-1,NPO 2  (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1084.ts
+#EXTINF:-1,NPO 2 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1085.ts
+#EXTINF:-1,NPO 3 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1086.ts
+#EXTINF:-1,NPO 3 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1087.ts
+#EXTINF:-1,RTL 4 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1088.ts
+#EXTINF:-1,RTL 4 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1089.ts
+#EXTINF:-1,RTL 5 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1090.ts
+#EXTINF:-1,RTL 5 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1091.ts
+#EXTINF:-1,RTL 7 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1092.ts
+#EXTINF:-1,RTL 8 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1093.ts
+#EXTINF:-1,SBS 6 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1094.ts
+#EXTINF:-1,SBS 6 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1095.ts
+#EXTINF:-1,SBS 9 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1096.ts
+#EXTINF:-1,SBS 9 (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1097.ts
+#EXTINF:-1,VERONICA DISNEY (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1098.ts
+#EXTINF:-1,RTL Z (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1099.ts
+#EXTINF:-1,RTL LOUNGE (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1100.ts
+#EXTINF:-1,RTL CRIME (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1101.ts
+#EXTINF:-1,NET 5 (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1102.ts
+#EXTINF:-1,FOX (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1103.ts
+#EXTINF:-1,FILM 1 ACTION (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1104.ts
+#EXTINF:-1,FILM 1 FAMILY (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1105.ts
+#EXTINF:-1,FILM 1 DRAMA (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1106.ts
+#EXTINF:-1,FILM 1 DRAMA (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1107.ts
+#EXTINF:-1,FILM 1 PREMIERE (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1108.ts
+#EXTINF:-1,FILM 1 PREMIERE (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1109.ts
+#EXTINF:-1,TLC (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1110.ts
+#EXTINF:-1,ANIMAL PLANET (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1111.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1112.ts
+#EXTINF:-1,DISCOVERY SCIENCE (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1114.ts
+#EXTINF:-1,DISCOVERY CHANNEL (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1115.ts
+#EXTINF:-1,HISTORY (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1116.ts
+#EXTINF:-1,24 KITCHEN (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1117.ts
+#EXTINF:-1,BOOMERANG (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1118.ts
+#EXTINF:-1,COMEDY CENTRAL (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1119.ts
+#EXTINF:-1,BBC FIRST (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1120.ts
+#EXTINF:-1,AT5 (NL) test
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1122.ts
+#EXTINF:-1,TV ORANJE (NL) test
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1123.ts
+#EXTINF:-1,MTV NEDERLAND (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1124.ts
+#EXTINF:-1,NICK MUSIC (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1125.ts
+#EXTINF:-1,XITE (NL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1126.ts
+#EXTINF:-1,VERONICA DISNEY (NL) L2
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/19865.ts
+#EXTINF:-1,::::: ALBANIA :::::
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1006.ts
+#EXTINF:-1,RTK (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1007.ts
+#EXTINF:-1,RTK 2 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1008.ts
+#EXTINF:-1,RTK 3 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1009.ts
+#EXTINF:-1,RTK 4 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1010.ts
+#EXTINF:-1,RTV 21 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1011.ts
+#EXTINF:-1,RTSH 1 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1012.ts
+#EXTINF:-1,RTSH 2 FHD (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1013.ts
+#EXTINF:-1,TV DUKAGJINI (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1016.ts
+#EXTINF:-1,RTSH FILM (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1017.ts
+#EXTINF:-1,RTSH 24 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1018.ts
+#EXTINF:-1,PEACE TV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1019.ts
+#EXTINF:-1,RTV ISLAM (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1020.ts
+#EXTINF:-1,RTV PENDIMI (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1021.ts
+#EXTINF:-1,TOP CHANEL (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1023.ts
+#EXTINF:-1,KLAN (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1026.ts
+#EXTINF:-1,KLAN PLUS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1027.ts
+#EXTINF:-1,KLAN KOSOVA (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1028.ts
+#EXTINF:-1,EXPLORER SHKENCE (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1030.ts
+#EXTINF:-1,FILM AUTOR (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1032.ts
+#EXTINF:-1,FILM DY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1033.ts
+#EXTINF:-1,FILM DRAME (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1034.ts
+#EXTINF:-1,FILM AKSION (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1035.ts
+#EXTINF:-1,FILM HITS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1036.ts
+#EXTINF:-1,FILM THRILLER (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1037.ts
+#EXTINF:-1,FILM KOMEDI (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1038.ts
+#EXTINF:-1,FILM NJE (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1039.ts
+#EXTINF:-1,TRING SUPER (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1040.ts
+#EXTINF:-1,BANG BANG (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1041.ts
+#EXTINF:-1,TRING SHQIP (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1042.ts
+#EXTINF:-1,TRING MAX (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1043.ts
+#EXTINF:-1,TRING JOLLY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1044.ts
+#EXTINF:-1,TRING COMEDY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1045.ts
+#EXTINF:-1,TRING FANTASY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1046.ts
+#EXTINF:-1,TRING ACTION (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1047.ts
+#EXTINF:-1,TRING HISTORY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1048.ts
+#EXTINF:-1,TRING PLANET (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1049.ts
+#EXTINF:-1,TRING WORLD (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1050.ts
+#EXTINF:-1,TRING TRING (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1051.ts
+#EXTINF:-1,TRING JOLLY (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/75388.ts
+#EXTINF:-1,TIP TV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1052.ts
+#EXTINF:-1,FOLK+ (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1053.ts
+#EXTINF:-1,ELRODI TV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1054.ts
+#EXTINF:-1,3 PLUS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1055.ts
+#EXTINF:-1,RTV 21 POPULLORE (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1056.ts
+#EXTINF:-1,RTSH SHQIP (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1057.ts
+#EXTINF:-1,RTSH PLUS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1058.ts
+#EXTINF:-1,FIRST CHANNEL (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1059.ts
+#EXTINF:-1,KTV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1061.ts
+#EXTINF:-1,T7 FHD (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1062.ts
+#EXTINF:-1,RTK 1 (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1063.ts
+#EXTINF:-1,Opoja TV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16274.ts
+#EXTINF:-1,RTV 21 Junior (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16276.ts
+#EXTINF:-1,Kanal 10 HD (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/16277.ts
+#EXTINF:-1,TOP NEWS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144988.ts
+#EXTINF:-1,ORA NEWS (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144987.ts
+#EXTINF:-1,SYRI TV (AL)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/144989.ts
+#EXTINF:-1,SVT 1 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1179.ts
+#EXTINF:-1,SVT 2 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1180.ts
+#EXTINF:-1,TV 3 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1181.ts
+#EXTINF:-1,TV 4 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1182.ts
+#EXTINF:-1,TV 4 FILM (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1183.ts
+#EXTINF:-1,TV 4 FAKTA (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1184.ts
+#EXTINF:-1,KANAL 5 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1185.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1186.ts
+#EXTINF:-1,HISTORY (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1187.ts
+#EXTINF:-1,VIASAT EXPLORE (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1188.ts
+#EXTINF:-1,SVT24/B (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1189.ts
+#EXTINF:-1,SJUAN (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1190.ts
+#EXTINF:-1,SF-KANALEN (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1191.ts
+#EXTINF:-1,KUNSKAPSKANALEN (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1192.ts
+#EXTINF:-1,C MORE STARS HD (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1194.ts
+#EXTINF:-1,KANAL 9 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1195.ts
+#EXTINF:-1,KANAL 11 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1196.ts
+#EXTINF:-1,TV 4 GULD (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1198.ts
+#EXTINF:-1,TV 6 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1199.ts
+#EXTINF:-1,TV 10 (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1200.ts
+#EXTINF:-1,C MORE FIRST (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1201.ts
+#EXTINF:-1,C MORE HITS (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1202.ts
+#EXTINF:-1,VIASAT ACTION (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1203.ts
+#EXTINF:-1,VIASAT PREMIERE (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1204.ts
+#EXTINF:-1,VIASAT FILM HITS (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1205.ts
+#EXTINF:-1,CARTOON NETWORK (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1206.ts
+#EXTINF:-1,NICKELODEON (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1207.ts
+#EXTINF:-1,NICK JR (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1209.ts
+#EXTINF:-1,VIASAT FILM FAMILY
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23308.ts
+#EXTINF:-1,C MORE SERIES
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23309.ts
+#EXTINF:-1,TV 12
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/23312.ts
+#EXTINF:-1,DISCOVERY CHANNEL (SW)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/37472.ts
+#EXTINF:-1,C More Fotboll
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115306.ts
+#EXTINF:-1,Viasat Sport
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115307.ts
+#EXTINF:-1,Viasat Fotboll
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115308.ts
+#EXTINF:-1,C More Hockey
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115309.ts
+#EXTINF:-1,C More Sport
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115310.ts
+#EXTINF:-1,Viasat Sport Premium
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/115311.ts
+#EXTINF:-1,ATV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/967.ts
+#EXTINF:-1,BEYAZ TV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/969.ts
+#EXTINF:-1,A2 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/970.ts
+#EXTINF:-1,TRT (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/971.ts
+#EXTINF:-1,CNN TURK (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/972.ts
+#EXTINF:-1,TV 8 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/973.ts
+#EXTINF:-1,TRT HABER (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/974.ts
+#EXTINF:-1,POWER TURK (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/976.ts
+#EXTINF:-1,KANAL 7 AVRUPA (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/977.ts
+#EXTINF:-1,360 (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/978.ts
+#EXTINF:-1,A HABER (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/979.ts
+#EXTINF:-1,ULUSAL KANAL (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/980.ts
+#EXTINF:-1,TEVE 2 HD (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/982.ts
+#EXTINF:-1,TLC HD (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/983.ts
+#EXTINF:-1,SHOW MAX HD (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/984.ts
+#EXTINF:-1,KANAL B (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/985.ts
+#EXTINF:-1,FOX HD (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/987.ts
+#EXTINF:-1,HISTORY HD (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/988.ts
+#EXTINF:-1,KRAL POP (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/989.ts
+#EXTINF:-1,DOST TV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/995.ts
+#EXTINF:-1,TRT HABER (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/997.ts
+#EXTINF:-1,NTV (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1002.ts
+#EXTINF:-1,KANAL D (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1004.ts
+#EXTINF:-1,DREAM TURK (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/1005.ts
+#EXTINF:-1,TRT SPOR (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21357.ts
+#EXTINF:-1,DISCOVERY CHANNEL (TR)
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/21358.ts
+#EXTINF:-1,BIG Brother 1 Kosovo
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/209551.ts
+#EXTINF:-1,BIG Brother 2 kosovo
+http://balkan-x.net:80/live/amigos595/z72hhmc5BN/209552.ts
